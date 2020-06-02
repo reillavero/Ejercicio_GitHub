@@ -1,0 +1,3 @@
+-Scott Chacon and Ben Straub. Pro Git Apress.
+
+-Ryan Hodson. Ry´s Git Tutorial. Smashwodrs (2014)
